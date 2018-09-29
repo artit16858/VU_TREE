@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plant VU</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="password">Password (6-10 characters)</string>
+    <string name="register" translatable="false">Sing Up</string>
+    <string name="game">Game</string>
+    <string name="me">Profile</string>
+    <string name="news">New</string>
+    <string name="tree">Tree</string>
+    <string name="unuser">Skip</string>
+    <string name="sendto">Send To</string>
+    <string name="login_facebook" translatable="false">Continue with Facebook</string>
+    <string name="showpass">Show Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="tel" translatable="false">Tel.</string>
+    <string name="username" translatable="false">Username (6-10 characters)</string>
+    <string name="confiram_passwore" translatable="false">Confiram Passwore</string>
+    <string name="surname">Surname</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="email">Email</string>
+    <string name="birthday">Birthday</string>
+    <string name="play1">PLAY 1</string>
+    <string name="play2">PLAY 2</string>
+    <string name="edit">Edit</string>
+    <string name="enterpassword">Enter Passsword</string>
+    <string name="enterusername">Enter Username</string>
+    <string name="on_off_flashlight" translatable="false">On/Off flashlight</string>
+    <string name="comment" translatable="false">Comment</string>
+    <string name="send" translatable="false">Send</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="edit_profile" translatable="false">Edit Profile</string>
+    <string name="Good">Good</string>
+    <string name="Elementary" translatable="false">Elementary</string>
+    <string name="Satisfactory" translatable="false">Satisfactory</string>
+    <string name="Excellent" translatable="false">Excellent</string>
+    <string name="Mediocre">Mediocre</string>
+    <string name="ratting" translatable="false">Rating</string>
+    <string name="san_qr_code" translatable="false">San QR Code</string>
+    <string name="score" translatable="false">Score</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="vote" translatable="false">Vote</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="howtoplay">How to play</string>
+    <string name="usernamer">Username</string>
+    <string name="passwordr">Password</string>
+    <string name="close">Close</string>
+</resources>

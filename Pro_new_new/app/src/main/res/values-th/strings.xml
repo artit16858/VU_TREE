@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plant VU</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="logout">ออกจากระบบ</string>
+    <string name="name">ชื่อ</string>
+    <string name="password">รหัสผ่าน (6-10 อักขระ)</string>
+    <string name="register" translatable="false">สมัครสมาชิก</string>
+    <string name="game">เกม</string>
+    <string name="me">โปรไฟล์</string>
+    <string name="news">ข่าวสาร</string>
+    <string name="tree">ต้นไม้</string>
+    <string name="unuser">ข้าม</string>
+    <string name="sendto">ดูข้อมูล</string>
+    <string name="login_facebook">ดำเนินการต่อด้วย Facebook</string>
+    <string name="showpass">แสดงรหัสผ่าน</string>
+    <string name="male">ผู้ชาย</string>
+    <string name="female">ผู้หญิง</string>
+    <string name="tel" translatable="false">เบอร์โทร</string>
+    <string name="username" translatable="false">รหัสผู้ใช้งาน (6-10 อักขระ)</string>
+    <string name="confiram_passwore" translatable="false">ยืนยันรหัสผ่าน</string>
+    <string name="surname">นามสกุล</string>
+    <string name="age">อายุ</string>
+    <string name="sex">เพศ</string>
+    <string name="prompt_email" translatable="false">อีเมลล์</string>
+    <string name="email">อีเมลล์</string>
+    <string name="birthday">วันเกิด</string>
+    <string name="play1">เกมส์ 1</string>
+    <string name="play2">เกมส์ 2</string>
+    <string name="edit">แก้ไข</string>
+    <string name="enterusername">กรอกรหัสผู้ใช้งาน</string>
+    <string name="on_off_flashlight">เปิด/ปิด แฟลช</string>
+    <string name="comment" translatable="false">แสดงความคิดเห็น</string>
+    <string name="send" translatable="false">ส่ง</string>
+    <string name="enterpassword">กรอกรหัสผ่าน</string>
+    <string name="profile" translatable="false">โปรไฟล์</string>
+    <string name="Elementary" translatable="false">แย่</string>
+    <string name="Excellent" translatable="false">ดีมาก</string>
+    <string name="Good" translatable="false">ดี</string>
+    <string name="Satisfactory" translatable="false">น่าพอใจ</string>
+    <string name="action_sign_in_short" translatable="false"></string>
+    <string name="Mediocre">ปานกลาง</string>
+    <string name="edit_profile" translatable="false">แก้ไขข้อมูลส่วนตัว</string>
+    <string name="ratting" translatable="false">ระดับความพึ่งพอใจ</string>
+    <string name="san_qr_code" translatable="false">สแกนคิวอาร์โค็ด</string>
+    <string name="score" translatable="false">คะแนน</string>
+    <string name="search" translatable="false">ค้นหา</string>
+    <string name="vote" translatable="false">ให้คะแนน</string>
+    <string name="save">บันทึก</string>
+    <string name="done">เสร็จสิ้น</string>
+    <string name="howtoplay">วิธีการเล่น</string>
+    <string name="usernamer">รหัสผู้ใช้งาน</string>
+    <string name="passwordr">รหัสผ่าน</string>
+    <string name="close">ปิด</string>
+</resources>

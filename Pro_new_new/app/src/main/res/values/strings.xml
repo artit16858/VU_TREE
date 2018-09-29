@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Plant VU</string>
+    <string name="facebook_app_id" translatable="false">615191252203193</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb615191252203193</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="hybrid" translatable="false">HYBRID</string>
+    <string name="normal" translatable="false">NORMAL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+
+
+
+    <!--string name="host" translatable="false">http://192.168.1.104/vu_tree/</string-->
+    <string name="host" translatable="false">http://192.168.1.104/vu_tree/</string>
+    <string name="urltreeimg" translatable="false">img/</string>
+    <string name="title_activity_main2" translatable="false">Main2</string>
+    <string name="title_activity_maina" translatable="false">MainaActivity</string>
+    <string name="title_activity_login" translatable="false">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="login_facebook">Continue with Facebook</string>
+    <string name="prompt_password" translatable="false">Password (optional)</string>
+    <string name="action_sign_in" translatable="false">Sign in or register</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="error_invalid_email" translatable="false">This email address is invalid</string>
+    <string name="error_invalid_password" translatable="false">This password is too short</string>
+    <string name="error_incorrect_password" translatable="false">This password is incorrect</string>
+    <string name="error_field_required" translatable="false">This field is required</string>
+    <string name="permission_rationale" translatable="false">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="search" translatable="false">Search</string>
+    <string name="title_activity_decoder" translatable="false">DecoderActivity</string>
+    <string name="login">Login</string>
+    <string name="register">Sing Up</string>
+    <string name="title_activity_register" translatable="false">Register</string>
+    <string name="email">Email</string>
+
+
+    <string name="name">name</string>
+    <string name="username">Username</string>
+
+    <string name="confiram_passwore">Confiram Passwore</string>
+    <string name="vote" translatable="false">Vote</string>
+    <string name="on_off_flashlight">On/Off flashlight</string>
+    <string name="san_qr_code" translatable="false">San QR Code</string>
+
+    <string-array name="az">
+        <item>ก-ฮ</item>
+        <item>ฮ-ก</item>
+    </string-array>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="logout">Logout</string>
+
+    <string name="comment">Comment</string>
+    <string name="send" translatable="false">Send</string>
+    <string name="setting" translatable="false">Setting</string>
+    <string name="communicate" translatable="false">Communicate</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="surname">Surname</string>
+    <string name="score" translatable="false">Score</string>
+    <string name="tel">Tel.</string>
+    <!-- ระดับความพึ่งพอใจ -->
+    <string name="Elementary" translatable="false">Elementary</string>
+    <string name="Mediocre">Mediocre</string>
+    <string name="Satisfactory">Satisfactory</string>
+    <string name="Good">Good</string>
+    <string name="Excellent">Excellent</string>
+    <string name="edit_profile" translatable="false">Edit Profile</string>
+
+    <string name="title_activity_edit_pro" translatable="false">EditPro</string>
+    <string name="ratting" translatable="false">Rating</string>
+    <!--menu-->
+    <string name="news">News</string>
+    <string name="tree">Tree</string>
+    <string name="game">Game</string>
+    <string name="me">Profile</string>
+    <string name="unuser">Skip</string>
+    <string name="sendto">Send To</string>
+    <string name="enterusername">Enter Username</string>
+    <string name="enterpassword">Enter Passsword</string>
+    <string name="showpass">Show Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">Age</string>
+    <string name="password">Password</string>
+    <string name="sex">Sex</string>
+    <string name="birthday">Birthday</string>
+    <string name="play1">PLAY 1</string>
+    <string name="play2">PLAY 2</string>
+    <string name="edit">Edit</string>
+    <string name="topfive">TOP 5</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="howtoplay">How to play</string>
+    <string name="howto">เกมตอบคำถาม มีอยู่  2 เกม คือ</string>
+    <string name="passwordr">Password</string>
+    <string name="usernamer">Username</string>
+    <string name="close">Close</string>
+</resources>

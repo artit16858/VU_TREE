@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="เกมตอบคำถาม มีอยู่  2 เกม คือ"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="      เกม 1 เป็นเกมลักษณะตอบคำถามเกี่ยวกับรูปภาพ จำนวน  20 ข้อ จะมีภาพขึ้นมาให้ผู้เล่นได้ดู จากนั้นให้เลือกคำตอบที่ถูกต้อง  ถ้าตอบถูก 15 ข้อขึ้นไป จะได้คะแนนสะสมเพิ่ม 1 คะแนน"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:text="        เกม 2 เป็นเกมลักษณะตอบคำถามเกี่ยวกับข้อมูลพรรณไม้ จำนวน  15 ข้อ จะมีข้อมูลขึ้นมาให้ผู้เล่นได้อ่าน จากนั้นให้เลือกคำตอบที่ถูกต้อง  ถ้าตอบถูก 8 ข้อขึ้นไป จะได้คะแนนสะสมเพิ่ม 1 คะแนน"
+        android:textSize="18sp" />
+</LinearLayout>

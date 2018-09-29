@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bggame"
+    android:orientation="vertical"
+    tools:context="com.good.maxky_2208.pro_tree_aaa.Howtoplay">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:background="#8fffffff"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="เกมส์ตอบคำถาม มีอยู่  2 เกม คือ"
+            android:textAlignment="center"
+            android:textColor="#4049ff"
+            android:textSize="26sp" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:text="      เกมส์ 1 เป็นเกมลักษณะตอบคำถามเกี่ยวกับรูปภาพ จำนวน  20 ข้อ จะมีภาพขึ้นมาให้ผู้เล่นได้ดู จากนั้นให้เลือกคำตอบที่ถูกต้อง  ถ้าตอบถูก 15 ข้อขึ้นไป จะได้คะแนนสะสมเพิ่ม 1 คะแนน"
+
+            android:textColor="#3eb417"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:text="        เกมส์ 2 เป็นเกมลักษณะตอบคำถามเกี่ยวกับข้อมูลพรรณไม้ จำนวน  15 ข้อ จะมีข้อมูลขึ้นมาให้ผู้เล่นได้อ่าน จากนั้นให้เลือกคำตอบที่ถูกต้อง  ถ้าตอบถูก 8 ข้อขึ้นไป จะได้คะแนนสะสมเพิ่ม 1 คะแนน"
+            android:textColor="#fc402c"
+            android:textSize="22sp" />
+
+    </LinearLayout>
+
+</LinearLayout>
